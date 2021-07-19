@@ -1,2 +1,2 @@
 # items
-Official repository for
+Official repository for player-owned items
