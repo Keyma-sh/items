@@ -1,0 +1,587 @@
+[
+  {
+    "id": 0,
+    "name": "Default",
+    "file": "dotted_generic",
+    "level": 0,
+    "price": 2500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 1,
+    "name": "Dotted Pattern",
+    "file": "dotted_pattern",
+    "level": 4,
+    "price": 2500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 2,
+    "name": "Dotted Blue",
+    "file": "dotted_blue",
+    "level": 5,
+    "price": 2500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 3,
+    "name": "Dotted Green",
+    "file": "dotted_green",
+    "level": 5,
+    "price": 2500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 4,
+    "name": "Dotted Orange",
+    "file": "dotted_orange",
+    "level": 5,
+    "price": 2500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 5,
+    "name": "Dotted Purple",
+    "file": "dotted_purple",
+    "level": 5,
+    "price": 2500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 6,
+    "name": "Blue Gradient",
+    "file": "gradient_blue",
+    "level": 8,
+    "price": 5000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 7,
+    "name": "Green Gradient",
+    "file": "gradient_green",
+    "level": 8,
+    "price": 5000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 8,
+    "name": "Orange Gradient",
+    "file": "gradient_orange",
+    "level": 8,
+    "price": 5000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 9,
+    "name": "Blue Splatter",
+    "file": "splatter_blue",
+    "level": 10,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 10,
+    "name": "Green Splatter",
+    "file": "splatter_green",
+    "level": 10,
+    "price": 6500,
+    "secret": true,
+    "order": 1
+  },
+  {
+    "id": 11,
+    "name": "Orange Splatter",
+    "file": "splatter_orange",
+    "level": 10,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 12,
+    "name": "Purple Splatter",
+    "file": "splatter_purple",
+    "level": 10,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 13,
+    "name": "Keyboard Chiclets",
+    "file": "keyboard_generic",
+    "level": 12,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 14,
+    "name": "Blue Gradient Splatter",
+    "file": "splatter_gradient_blue",
+    "level": 15,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 15,
+    "name": "Green Gradient Splatter",
+    "file": "splatter_gradient_green",
+    "level": 15,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 16,
+    "name": "Orange Gradient Splatter",
+    "file": "splatter_gradient_orange",
+    "level": 15,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 17,
+    "name": "Gray Gradient Splatter",
+    "file": "splatter_gradient_gray",
+    "level": 15,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 18,
+    "name": "Black Gradient Splatter",
+    "file": "splatter_gradient_black",
+    "level": 15,
+    "price": 6500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 19,
+    "name": "Clusters",
+    "file": "cluster_generic",
+    "level": 20,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 20,
+    "name": "Clusters Gray",
+    "file": "cluster_gray",
+    "level": 20,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 21,
+    "name": "Colorful Clusters",
+    "file": "cluster_colorful",
+    "level": 20,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 22,
+    "name": "Blue Flower",
+    "file": "flower_blue",
+    "level": 25,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 23,
+    "name": "Orange Flower",
+    "file": "flower_orange",
+    "level": 25,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 24,
+    "name": "Blue Wood",
+    "file": "wood_blue",
+    "level": 30,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 25,
+    "name": "Green Wood",
+    "file": "wood_green",
+    "level": 30,
+    "price": 7500,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 26,
+    "name": "Crystals Legacy",
+    "file": "crystals_legacy",
+    "level": 0,
+    "price": 1337,
+    "secret": true,
+    "order": 999
+  },
+  {
+    "id": 27,
+    "name": "Patreon Supporter",
+    "file": "patreon",
+    "level": 0,
+    "price": 0,
+    "secret": true,
+    "order": 999
+  },
+  {
+    "id": 28,
+    "name": "Green Eyed Cat",
+    "file": "green_eyed_cat",
+    "level": 50,
+    "price": 10000,
+    "secret": false,
+    "order": 2
+  },
+  {
+    "id": 29,
+    "name": "Code",
+    "file": "code",
+    "level": 35,
+    "price": 10000,
+    "secret": false,
+    "order": 2
+  },
+  {
+    "id": 30,
+    "name": "Colorful Triangles",
+    "file": "colorful_triangles",
+    "level": 40,
+    "price": 9000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 31,
+    "name": "Colorful Triangles 2",
+    "file": "colorful_triangles2",
+    "level": 40,
+    "price": 9000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 32,
+    "name": "Dog Toast",
+    "file": "dog_toast",
+    "level": 30,
+    "price": 10000,
+    "secret": false,
+    "order": 2
+  },
+  {
+    "id": 33,
+    "name": "Eclipse",
+    "file": "eclipse",
+    "level": 30,
+    "price": 10000,
+    "secret": false,
+    "order": 2
+  },
+  {
+    "id": 34,
+    "name": "Orange Leaves",
+    "file": "orange_leaves",
+    "level": 40,
+    "price": 9000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 35,
+    "name": "Orange Lightning",
+    "file": "orange_lightning",
+    "level": 40,
+    "price": 9000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 36,
+    "name": "Orange Mechkeys",
+    "file": "orange_mechkeys",
+    "level": 40,
+    "price": 9000,
+    "secret": false,
+    "order": 1
+  },
+  {
+    "id": 37,
+    "name": "MonkeyType",
+    "file": "monkeytype_mascot",
+    "level": 5,
+    "price": 9000,
+    "secret": false,
+    "order": 5
+  },
+  {
+    "id": 38,
+    "name": "Rubiks Cube",
+    "file": "rubiks_cube",
+    "level": 35,
+    "price": 10000,
+    "secret": false,
+    "order": 2
+  },
+  {
+    "id": 39,
+    "name": "Australia",
+    "file": "country_australia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 40,
+    "name": "Brazil",
+    "file": "country_brazil",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 41,
+    "name": "Canada",
+    "file": "country_canada",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 42,
+    "name": "Germany",
+    "file": "country_germany",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 43,
+    "name": "India",
+    "file": "country_india",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 44,
+    "name": "Indonesia",
+    "file": "country_indonesia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 45,
+    "name": "Malaysia",
+    "file": "country_malaysia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 46,
+    "name": "Philippines",
+    "file": "country_philippines",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 47,
+    "name": "United Kingdom",
+    "file": "country_uk",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 48,
+    "name": "United States",
+    "file": "country_us",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 49,
+    "name": "Minecraft",
+    "file": "game_minecraft",
+    "level": 15,
+    "price": 9000,
+    "secret": false,
+    "order": 5
+  },
+  {
+    "id": 50,
+    "name": "CS:GO",
+    "file": "game_csgo_dustii",
+    "level": 15,
+    "price": 9000,
+    "secret": false,
+    "order": 5
+  },
+  {
+    "id": 51,
+    "name": "Valorant",
+    "file": "game_valorant",
+    "level": 15,
+    "price": 9000,
+    "secret": false,
+    "order": 5
+  },
+  {
+    "id": 52,
+    "name": "Quake Champions",
+    "file": "game_quake_champions",
+    "level": 15,
+    "price": 9000,
+    "secret": false,
+    "order": 5
+  },
+  {
+    "id": 53,
+    "name": "GTA V",
+    "file": "game_gtav",
+    "level": 15,
+    "price": 9000,
+    "secret": false,
+    "order": 5
+  },
+  {
+    "id": 54,
+    "name": "Unreal Tournament 99",
+    "file": "game_ut99",
+    "level": 20,
+    "price": 9000,
+    "secret": false,
+    "order": 5
+  },
+  {
+    "id": 55,
+    "name": "Debian",
+    "file": "os_debian",
+    "level": 20,
+    "price": 5000,
+    "secret": false,
+    "order": 7
+  },
+  {
+    "id": 56,
+    "name": "Ubuntu",
+    "file": "os_ubuntu",
+    "level": 20,
+    "price": 5000,
+    "secret": false,
+    "order": 7
+  },
+  {
+    "id": 57,
+    "name": "Arch",
+    "file": "os_arch",
+    "level": 20,
+    "price": 5000,
+    "secret": false,
+    "order": 7
+  },
+  {
+    "id": 58,
+    "name": "BSOD",
+    "file": "os_windows_bsod",
+    "level": 20,
+    "price": 5000,
+    "secret": false,
+    "order": 7
+  },
+  {
+    "id": 59,
+    "name": "Apple",
+    "file": "os_mac",
+    "level": 20,
+    "price": 5000,
+    "secret": false,
+    "order": 7
+  },
+  {
+    "id": 60,
+    "name": "Bold",
+    "file": "bold",
+    "level": 50,
+    "price": 10000,
+    "secret": false,
+    "order": 2
+  },
+  {
+    "id": 61,
+    "name": "UTC",
+    "file": "utc",
+    "level": 0,
+    "price": 0,
+    "secret": true,
+    "order": 999
+  },
+  {
+    "id": 62,
+    "name": "France",
+    "file": "france",
+    "level": 0,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 63,
+    "name": "Edmonton Direct 2021",
+    "file": "edmonton_direct",
+    "level": 0,
+    "price": 0,
+    "secret": false,
+    "order": 999
+  },
+  {
+    "id": 64,
+    "name": "Norway",
+    "file": "norway",
+    "level": 0,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  }
+]

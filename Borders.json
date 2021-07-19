@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "Orange",
+    "file": "orange",
+    "price": 0,
+    "level": 0
+  },
+  {
+    "id": 1,
+    "name": "Gray",
+    "file": "gray",
+    "price": 2000,
+    "level": 5
+  },
+  {
+    "id": 2,
+    "name": "Blue",
+    "file": "blue",
+    "price": 2000,
+    "level": 10
+  },
+  {
+    "id": 3,
+    "name": "Red",
+    "file": "red",
+    "price": 2000,
+    "level": 13
+  },
+  {
+    "id": 4,
+    "name": "Yellow",
+    "file": "yellow",
+    "price": 2000,
+    "level": 15
+  },
+  {
+    "id": 5,
+    "name": "Green",
+    "file": "green",
+    "price": 2000,
+    "level": 17
+  },
+  {
+    "id": 6,
+    "name": "Teal",
+    "file": "teal",
+    "price": 2000,
+    "level": 20
+  },
+  {
+    "id": 7,
+    "name": "Indigo",
+    "file": "indigo",
+    "price": 2000,
+    "level": 23
+  },
+  {
+    "id": 8,
+    "name": "Purple",
+    "file": "purple",
+    "price": 2000,
+    "level": 25
+  },
+  {
+    "id": 9,
+    "name": "Pink",
+    "file": "pink",
+    "price": 2000,
+    "level": 30
+  }
+]
