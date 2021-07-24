@@ -583,5 +583,257 @@
     "price": 2500,
     "secret": false,
     "order": 10
+  },
+  {
+    "id": 65,
+    "name": "Albania",
+    "file": "country_albania",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 66,
+    "name": "Argentina",
+    "file": "country_argentina",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 67,
+    "name": "Chile",
+    "file": "country_chile",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 68,
+    "name": "Colombia",
+    "file": "country_colombia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 69,
+    "name": "Croatia",
+    "file": "country_croatia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 70,
+    "name": "Denmark",
+    "file": "country_denmark",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 71,
+    "name": "Dominican Republic",
+    "file": "country_dominicanrepublic",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 72,
+    "name": "Egypt",
+    "file": "country_egypt",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 73,
+    "name": "Estonia",
+    "file": "country_estonia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 74,
+    "name": "Greece",
+    "file": "country_greece",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 75,
+    "name": "Iceland",
+    "file": "country_iceland",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 76,
+    "name": "Finland",
+    "file": "country_finland",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 77,
+    "name": "Italy",
+    "file": "country_italy",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 78,
+    "name": "Japan",
+    "file": "country_japan",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 79,
+    "name": "Mexico",
+    "file": "country_mexico",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 80,
+    "name": "Moldova",
+    "file": "country_moldova",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 81,
+    "name": "Morocco",
+    "file": "country_morocco",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 82,
+    "name": "Netherlands",
+    "file": "country_netherlands",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 83,
+    "name": "Peru",
+    "file": "country_peru",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 83,
+    "name": "Romania",
+    "file": "country_romania",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 84,
+    "name": "Russia",
+    "file": "country_russia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 85,
+    "name": "Serbia",
+    "file": "country_serbia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 86,
+    "name": "Slovakia",
+    "file": "country_slovakia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 87,
+    "name": "Slovenia",
+    "file": "country_slovenia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 88,
+    "name": "South Korea",
+    "file": "country_southkorea",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 89,
+    "name": "Sweden",
+    "file": "country_sweden",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 90,
+    "name": "Tunisia",
+    "file": "country_tunisia",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
+  },
+  {
+    "id": 91,
+    "name": "Turkey",
+    "file": "country_turkey",
+    "level": 1,
+    "price": 2500,
+    "secret": false,
+    "order": 10
   }
 ]
