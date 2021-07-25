@@ -88,5 +88,59 @@
     "price": 15000,
     "secret": false,
     "order": 1
+  },
+  {
+    "id": 10,
+    "name": "Chromatic Blue",
+    "file": "chromatic_blue",
+    "level": 0,
+    "price": 0,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 11,
+    "name": "Chromatic Green",
+    "file": "chromatic_green",
+    "level": 0,
+    "price": 0,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 12,
+    "name": "Chromatic Orange",
+    "file": "chromatic_orange",
+    "level": 0,
+    "price": 0,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 13,
+    "name": "Chromatic Purple",
+    "file": "chromatic_purple",
+    "level": 0,
+    "price": 0,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 14,
+    "name": "Chromatic Red",
+    "file": "chromatic_red",
+    "level": 0,
+    "price": 0,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 15,
+    "name": "Keyma.sh Summer Championship 2021 Banner",
+    "file": "tournament_summerchamp",
+    "level": 0,
+    "price": 0,
+    "secret": false,
+    "order": 0
   }
 ]
