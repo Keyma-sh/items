@@ -857,7 +857,7 @@
   {
     "id": 94,
     "name": "CAUTION!",
-    "file": "caution!",
+    "file": "caution",
     "level": 20,
     "price": 10000,
     "secret": false,
