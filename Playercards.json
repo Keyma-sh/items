@@ -929,7 +929,7 @@
   {
     "id": 103,
     "name": "Chromatic Orange",
-    "file": "chromatic_orange",
+    "file": "chromatic_orange_broken",
     "level": 35,
     "price": 8250,
     "secret": true,
