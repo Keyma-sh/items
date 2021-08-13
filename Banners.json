@@ -142,5 +142,32 @@
     "price": 0,
     "secret": false,
     "order": 0
+  },
+  {
+    "id": 16,
+    "name": "Keyma.sh Summer Championship 2021 Bronze",
+    "file": "tournament_summerchamp_bronze",
+    "level": 0,
+    "price": 0,
+    "secret": true,
+    "order": 0
+  },
+  {
+    "id": 17,
+    "name": "Keyma.sh Summer Championship 2021 Silver",
+    "file": "tournament_summerchamp_silver",
+    "level": 0,
+    "price": 0,
+    "secret": true,
+    "order": 0
+  },
+  {
+    "id": 18,
+    "name": "Keyma.sh Summer Championship 2021 Champion",
+    "file": "tournament_summerchamp_champion",
+    "level": 0,
+    "price": 0,
+    "secret": true,
+    "order": 0
   }
 ]
