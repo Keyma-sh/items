@@ -169,5 +169,221 @@
     "price": 0,
     "secret": true,
     "order": 0
+  },
+  {
+    "id": 19,
+    "name": "Blue Chains",
+    "file": "chains_blue",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 20,
+    "name": "Green Chains",
+    "file": "chains_green",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 21,
+    "name": "Orange Chains",
+    "file": "chains_orange",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 22,
+    "name": "Purple Chains",
+    "file": "chains_purple",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 23,
+    "name": "Red Chains",
+    "file": "chains_red",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 24,
+    "name": "Diamonds",
+    "file": "diamond",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 25,
+    "name": "Blue Flowers",
+    "file": "flowers_blue",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 26,
+    "name": "Green Flowers",
+    "file": "flowers_green",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 27,
+    "name": "Orange Flowers",
+    "file": "flowers_orange",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 28,
+    "name": "Purple Flowers",
+    "file": "flowers_purple",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 29,
+    "name": "Red Flowers",
+    "file": "flowers_red",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 30,
+    "name": "Gradient 1",
+    "file": "gradient_1",
+    "level": 30,
+    "price": 35000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 31,
+    "name": "Blue Gradient",
+    "file": "gradient_2",
+    "level": 30,
+    "price": 35000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 32,
+    "name": "Green Gradient",
+    "file": "gradient_3",
+    "level": 30,
+    "price": 35000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 33,
+    "name": "Blue Pattern",
+    "file": "pattern_blue",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 34,
+    "name": "Green Pattern",
+    "file": "pattern_green",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 35,
+    "name": "Orange Pattern",
+    "file": "pattern_orange",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 36,
+    "name": "Purple Pattern",
+    "file": "pattern_purple",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 37,
+    "name": "Red Pattern",
+    "file": "pattern_red",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 38,
+    "name": "Blue Stars",
+    "file": "stars_blue",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 39,
+    "name": "Green Stars",
+    "file": "stars_green",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 40,
+    "name": "Orange Stars",
+    "file": "stars_orange",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 41,
+    "name": "Purple Stars",
+    "file": "stars_purple",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 42,
+    "name": "Red Stars",
+    "file": "stars_red",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
   }
 ]
