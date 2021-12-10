@@ -169,5 +169,221 @@
     "price": 0,
     "secret": true,
     "order": 0
+  },
+  {
+    "id": 19,
+    "name": "Blue Chains",
+    "file": "banner_chains_blue",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 20,
+    "name": "Green Chains",
+    "file": "banner_chains_green",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 21,
+    "name": "Orange Chains",
+    "file": "banner_chains_orange",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 22,
+    "name": "Purple Chains",
+    "file": "banner_chains_purple",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 23,
+    "name": "Red Chains",
+    "file": "banner_chains_red",
+    "level": 25,
+    "price": 30000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 24,
+    "name": "Diamonds",
+    "file": "banner_diamonds",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 25,
+    "name": "Blue Flowers",
+    "file": "banner_flowers_blue",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 26,
+    "name": "Green Flowers",
+    "file": "banner_flowers_green",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 27,
+    "name": "Orange Flowers",
+    "file": "banner_flowers_orange",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 28,
+    "name": "Purple Flowers",
+    "file": "banner_flowers_purple",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 29,
+    "name": "Red Flowers",
+    "file": "banner_flowers_red",
+    "level": 15,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 30,
+    "name": "Gradient 1",
+    "file": "banner_gradient_1",
+    "level": 30,
+    "price": 35000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 31,
+    "name": "Blue Gradient",
+    "file": "banner_gradient_2",
+    "level": 30,
+    "price": 35000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 32,
+    "name": "Green Gradient",
+    "file": "banner_gradient_3",
+    "level": 30,
+    "price": 35000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 33,
+    "name": "Blue Pattern",
+    "file": "banner_pattern_blue",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 34,
+    "name": "Green Pattern",
+    "file": "banner_pattern_green",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 35,
+    "name": "Orange Pattern",
+    "file": "banner_pattern_orange",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 36,
+    "name": "Purple Pattern",
+    "file": "banner_pattern_purple",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 37,
+    "name": "Red Pattern",
+    "file": "banner_pattern_red",
+    "level": 10,
+    "price": 10000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 38,
+    "name": "Blue Stars",
+    "file": "banner_stars_blue",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 39,
+    "name": "Green Stars",
+    "file": "banner_stars_green",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 40,
+    "name": "Orange Stars",
+    "file": "banner_stars_orange",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 41,
+    "name": "Purple Stars",
+    "file": "banner_stars_purple",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 42,
+    "name": "Red Stars",
+    "file": "banner_stars_red",
+    "level": 50,
+    "price": 50000,
+    "secret": false,
+    "order": 0
   }
 ]
