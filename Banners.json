@@ -385,5 +385,14 @@
     "price": 50000,
     "secret": false,
     "order": 0
+  },
+  {
+    "id": 43,
+    "name": "Drop",
+    "file": "banner_drop",
+    "level": 0,
+    "price": 0,
+    "secret": true,
+    "order": 0
   }
 ]
