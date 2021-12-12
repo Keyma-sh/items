@@ -1203,7 +1203,7 @@
     "level": 50,
     "price": 15000,
     "secret": false,
-    "order": 999
+    "order": 2
   },
   {
     "id": 134,
@@ -1212,7 +1212,7 @@
     "level": 15,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 135,
@@ -1221,7 +1221,7 @@
     "level": 15,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 136,
@@ -1230,7 +1230,7 @@
     "level": 15,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 137,
@@ -1239,7 +1239,7 @@
     "level": 15,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 138,
@@ -1248,7 +1248,7 @@
     "level": 15,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 139,
@@ -1257,7 +1257,7 @@
     "level": 30,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 140,
@@ -1266,7 +1266,7 @@
     "level": 30,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 141,
@@ -1275,7 +1275,7 @@
     "level": 30,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 142,
@@ -1284,7 +1284,7 @@
     "level": 10,
     "price": 5000,
     "secret": false,
-    "order": 999
+    "order": 10
   },
   {
     "id": 143,
@@ -1293,7 +1293,7 @@
     "level": 10,
     "price": 2500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 144,
@@ -1302,7 +1302,7 @@
     "level": 10,
     "price": 250,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 145,
@@ -1311,7 +1311,7 @@
     "level": 10,
     "price": 2500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 146,
@@ -1320,7 +1320,7 @@
     "level": 10,
     "price": 2500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 147,
@@ -1329,7 +1329,7 @@
     "level": 10,
     "price": 2500,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 148,
@@ -1338,7 +1338,7 @@
     "level": 10,
     "price": 5000,
     "secret": false,
-    "order": 999
+    "order": 2
   },
   {
     "id": 149,
@@ -1347,7 +1347,7 @@
     "level": 30,
     "price": 7500,
     "secret": false,
-    "order": 999
+    "order": 2
   },
   {
     "id": 150,
@@ -1356,7 +1356,7 @@
     "level": 10,
     "price": 5000,
     "secret": false,
-    "order": 999
+    "order": 10
   },
   {
     "id": 151,
@@ -1365,7 +1365,7 @@
     "level": 10,
     "price": 5000,
     "secret": false,
-    "order": 999
+    "order": 10
   },
   {
     "id": 152,
@@ -1374,7 +1374,7 @@
     "level": 10,
     "price": 5000,
     "secret": false,
-    "order": 999
+    "order": 2
   },
   {
     "id": 153,
@@ -1383,7 +1383,7 @@
     "level": 10,
     "price": 5000,
     "secret": false,
-    "order": 999
+    "order": 2
   },
   {
     "id": 154,
@@ -1392,7 +1392,7 @@
     "level": 50,
     "price": 25000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 155,
@@ -1401,7 +1401,7 @@
     "level": 50,
     "price": 25000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 156,
@@ -1410,7 +1410,7 @@
     "level": 50,
     "price": 25000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 157,
@@ -1419,7 +1419,7 @@
     "level": 50,
     "price": 25000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 158,
@@ -1428,11 +1428,11 @@
     "level": 50,
     "price": 25000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 159,
-    "name": "Patreon Supporter 2",
+    "name": "Patreon Supporter #2",
     "file": "patreon_2",
     "level": 0,
     "price": 0,
