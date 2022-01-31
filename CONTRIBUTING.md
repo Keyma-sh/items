@@ -9,7 +9,7 @@ Make sure you fork the repository so you can modify it locally, this will help w
 3. Should be saved as a **PNG** and pushed through a **lossless compression**. (We recommend Squoosh)
 
 ## Banners
-1. All banners dimensions should be no greater than **1900x400**.
+1. All banners dimensions should be no greater than **2990x400**.
 2. Should be saved as a **JPG** and pushed through a **lossless compression**. (We recommend Squoosh)
 
 ## Naming
