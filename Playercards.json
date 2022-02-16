@@ -1252,7 +1252,7 @@
   },
   {
     "id": 139,
-    "name": "Gradient 1",
+    "name": "RGB Gradient",
     "file": "gradient_1",
     "level": 30,
     "price": 7500,
@@ -1437,6 +1437,51 @@
     "level": 0,
     "price": 0,
     "secret": true,
+    "order": 999
+  },
+  {
+    "id": 160,
+    "name": "Blue Chains",
+    "file": "blue_chains",
+    "level": 25,
+    "price": 15000,
+    "secret": false,
+    "order": 999
+  },
+  {
+    "id": 161,
+    "name": "Green Chains",
+    "file": "green_chains",
+    "level": 25,
+    "price": 15000,
+    "secret": false,
+    "order": 999
+  },
+  {
+    "id": 162,
+    "name": "Orange Chains",
+    "file": "orange_chains",
+    "level": 25,
+    "price": 15000,
+    "secret": false,
+    "order": 999
+  },
+  {
+    "id": 163,
+    "name": "Purple Chains",
+    "file": "purple_chains",
+    "level": 25,
+    "price": 15000,
+    "secret": false,
+    "order": 999
+  },
+  {
+    "id": 164,
+    "name": "Red Chains",
+    "file": "red_chains",
+    "level": 25,
+    "price": 15000,
+    "secret": false,
     "order": 999
   }
 ]
