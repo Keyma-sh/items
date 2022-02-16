@@ -1437,7 +1437,7 @@
     "level": 0,
     "price": 0,
     "secret": true,
-    "order": 999
+    "order": 1
   },
   {
     "id": 160,
@@ -1446,7 +1446,7 @@
     "level": 25,
     "price": 15000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 161,
@@ -1455,7 +1455,7 @@
     "level": 25,
     "price": 15000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 162,
@@ -1464,7 +1464,7 @@
     "level": 25,
     "price": 15000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 163,
@@ -1473,7 +1473,7 @@
     "level": 25,
     "price": 15000,
     "secret": false,
-    "order": 999
+    "order": 1
   },
   {
     "id": 164,
@@ -1482,6 +1482,6 @@
     "level": 25,
     "price": 15000,
     "secret": false,
-    "order": 999
+    "order": 1
   }
 ]
