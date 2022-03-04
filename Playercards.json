@@ -1483,5 +1483,14 @@
     "price": 15000,
     "secret": false,
     "order": 1
+  },
+  {
+    "id": 165,
+    "name": "We Stand With Ukraine",
+    "file": "country_ukraine",
+    "level": 1,
+    "price": 0,
+    "secret": false,
+    "order": 10
   }
 ]
