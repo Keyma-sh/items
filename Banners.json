@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "Keyma.sh Gray",
+    "name": "Keymash Gray",
     "file": "banner_gray",
     "level": 10,
     "price": 15000,
@@ -10,7 +10,7 @@
   },
   {
     "id": 1,
-    "name": "Keyma.sh Blue",
+    "name": "Keymash Blue",
     "file": "banner_blue",
     "level": 10,
     "price": 15000,
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "name": "Keyma.sh Emerald",
+    "name": "Keymash Emerald",
     "file": "banner_emerald",
     "level": 10,
     "price": 15000,
@@ -28,7 +28,7 @@
   },
   {
     "id": 3,
-    "name": "Keyma.sh Indigo",
+    "name": "Keymash Indigo",
     "file": "banner_indigo",
     "level": 10,
     "price": 15000,
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "name": "Keyma.sh Lightblue",
+    "name": "Keymash Lightblue",
     "file": "banner_lightblue",
     "level": 10,
     "price": 15000,
@@ -46,7 +46,7 @@
   },
   {
     "id": 5,
-    "name": "Keyma.sh Orange",
+    "name": "Keymash Orange",
     "file": "banner_orange",
     "level": 10,
     "price": 15000,
@@ -55,7 +55,7 @@
   },
   {
     "id": 6,
-    "name": "Keyma.sh Pink",
+    "name": "Keymash Pink",
     "file": "banner_pink",
     "level": 10,
     "price": 15000,
@@ -64,7 +64,7 @@
   },
   {
     "id": 7,
-    "name": "Keyma.sh Red",
+    "name": "Keymash Red",
     "file": "banner_red",
     "level": 10,
     "price": 15000,
@@ -73,7 +73,7 @@
   },
   {
     "id": 8,
-    "name": "Keyma.sh Violet",
+    "name": "Keymash Violet",
     "file": "banner_violet",
     "level": 10,
     "price": 15000,
@@ -82,7 +82,7 @@
   },
   {
     "id": 9,
-    "name": "Keyma.sh Yellow",
+    "name": "Keymash Yellow",
     "file": "banner_yellow",
     "level": 10,
     "price": 15000,
@@ -136,7 +136,7 @@
   },
   {
     "id": 15,
-    "name": "Keyma.sh Summer Championship 2021 Banner",
+    "name": "Keymash Summer Championship 2021 Banner",
     "file": "tournament_summerchamp",
     "level": 0,
     "price": 0,
@@ -145,7 +145,7 @@
   },
   {
     "id": 16,
-    "name": "Keyma.sh Summer Championship 2021 Bronze",
+    "name": "Keymash Summer Championship 2021 Bronze",
     "file": "tournament_summerchamp_bronze",
     "level": 0,
     "price": 0,
@@ -154,7 +154,7 @@
   },
   {
     "id": 17,
-    "name": "Keyma.sh Summer Championship 2021 Silver",
+    "name": "Keymash Summer Championship 2021 Silver",
     "file": "tournament_summerchamp_silver",
     "level": 0,
     "price": 0,
@@ -163,7 +163,7 @@
   },
   {
     "id": 18,
-    "name": "Keyma.sh Summer Championship 2021 Champion",
+    "name": "Keymash Summer Championship 2021 Champion",
     "file": "tournament_summerchamp_champion",
     "level": 0,
     "price": 0,
@@ -271,7 +271,7 @@
   },
   {
     "id": 30,
-    "name": "Gradient 1",
+    "name": "RGB Gradient",
     "file": "banner_gradient_1",
     "level": 30,
     "price": 35000,
@@ -391,6 +391,321 @@
     "name": "Drop",
     "file": "banner_drop",
     "level": 0,
+    "price": 0,
+    "secret": true,
+    "order": 0
+  },
+  {
+    "id": 44,
+    "name": "FRAKTAL Blue",
+    "file": "banner_frktl_blue",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 45,
+    "name": "FRAKTAL Green",
+    "file": "banner_frktl_green",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 46,
+    "name": "FRAKTAL Orange",
+    "file": "banner_frktl_orange",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 47,
+    "name": "FRAKTAL Yellow",
+    "file": "banner_frktl_yellow",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 48,
+    "name": "FRAKTAL Purple",
+    "file": "banner_frktl_purple",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 49,
+    "name": "FRAKTAL Red",
+    "file": "banner_frktl_red",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 50,
+    "name": "FRAKTAL Pink",
+    "file": "banner_frktl_pink",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 51,
+    "name": "FRAKTAL Cyan",
+    "file": "banner_frktl_cyan",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 52,
+    "name": "FRAKTAL White",
+    "file": "banner_frktl_white",
+    "level": 45,
+    "price": 50000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 53,
+    "name": "FEVER DREAM Blue",
+    "file": "banner_feverdream_blue",
+    "level": 20,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 54,
+    "name": "FEVER DREAM Green",
+    "file": "banner_feverdream_green",
+    "level": 20,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 55,
+    "name": "FEVER DREAM Orange",
+    "file": "banner_feverdream_orange",
+    "level": 20,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 56,
+    "name": "FEVER DREAM Purple",
+    "file": "banner_feverdream_purple",
+    "level": 20,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 57,
+    "name": "FEVER DREAM Red",
+    "file": "banner_feverdream_red",
+    "level": 20,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 58,
+    "name": "ETHEREAL Blue",
+    "file": "banner_ethereal_blue",
+    "level": 75,
+    "price": 85000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 59,
+    "name": "ETHEREAL Green",
+    "file": "banner_ethereal_green",
+    "level": 75,
+    "price": 85000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 60,
+    "name": "ETHEREAL Yellow",
+    "file": "banner_ethereal_yellow",
+    "level": 75,
+    "price": 85000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 61,
+    "name": "ETHEREAL Purple",
+    "file": "banner_ethereal_purple",
+    "level": 75,
+    "price": 85000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 62,
+    "name": "ETHEREAL Red",
+    "file": "banner_ethereal_red",
+    "level": 75,
+    "price": 85000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 63,
+    "name": "Bioluminescence Blue",
+    "file": "banner_bioluminescence_blue",
+    "level": 15,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 64,
+    "name": "Bioluminescence Green",
+    "file": "banner_bioluminescence_green",
+    "level": 15,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 65,
+    "name": "Bioluminescence Orange",
+    "file": "banner_bioluminescence_orange",
+    "level": 15,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 66,
+    "name": "Bioluminescence Purple",
+    "file": "banner_bioluminescence_purple",
+    "level": 15,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 67,
+    "name": "Bioluminescence Red",
+    "file": "banner_bioluminescence_red",
+    "level": 15,
+    "price": 15000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 68,
+    "name": "DEAR DIARY Blue",
+    "file": "banner_notebook_blue",
+    "level": 65,
+    "price": 75000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 69,
+    "name": "DEAR DIARY Orange",
+    "file": "banner_notebook_orange",
+    "level": 65,
+    "price": 75000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 70,
+    "name": "GATA Blue",
+    "file": "banner_gata_blue",
+    "level": 30,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 71,
+    "name": "GATA Green",
+    "file": "banner_gata_green",
+    "level": 30,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 72,
+    "name": "GATA Orange",
+    "file": "banner_gata_orange",
+    "level": 30,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 73,
+    "name": "GATA Yellow",
+    "file": "banner_gata_yellow",
+    "level": 30,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 74,
+    "name": "GATA Purple",
+    "file": "banner_gata_purple",
+    "level": 30,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 75,
+    "name": "GATA Red",
+    "file": "banner_gata_red",
+    "level": 30,
+    "price": 20000,
+    "secret": false,
+    "order": 0
+  },
+  {
+    "id": 76,
+    "name": "Copper Rhino TC 2022 Participant",
+    "file": "banner_cr_participant",
+    "level": 1,
+    "price": 0,
+    "secret": true,
+    "order": 0
+  },
+  {
+    "id": 77,
+    "name": "Copper Rhino TC 2022 Champion",
+    "file": "banner_cr_champion",
+    "level": 1,
+    "price": 0,
+    "secret": true,
+    "order": 0
+  },
+  {
+    "id": 78,
+    "name": "Addicting Games",
+    "file": "banner_addictinggames",
+    "level": 1,
     "price": 0,
     "secret": true,
     "order": 0
