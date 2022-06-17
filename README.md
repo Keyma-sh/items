@@ -14,5 +14,5 @@ By contributing to Keyma.sh inventory items you must read and understand the fol
 { order: 3, name: 'Space', },
 { order: 5, name: 'Games', },
 { order: 7, name: 'Systems', },
-{ order: 10, name: 'Countries', },
+{ order: 10, name: 'Flags', },
 ```
